@@ -1,2 +1,3 @@
 # Facial-Expression-Detection
-This program detects the emotion of a person (or people) from their facial expression.
+This program detects the emotion of a person (or people) from their facial expression.<br>
+In order to run the detection program, run `main.py` in *src* directory without any parameters. The program will ask you to choose the display mode or train mode. If you choose the display mode, the program will detects your face and emotion according to your facial expression. On the other hand, if you choose the train mode, then you will be able to train the model. Just make sure that you specify the right directories for training when you are running the program in the train mode. You can do this by changing the variable `train_dir` and `val_dir`.
