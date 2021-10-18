@@ -12,7 +12,7 @@ Class imbalance exists in the data set (<a href="https://www.kaggle.com/aadityas
 ## Future improvements
 <ul>
   <li>The convolutional neural network used in this project is still shallow. In the future, it is possible to make the model better by adding more layers and a few more things such as dropout and normalization layer. </li>
-  <li>When oversampling, some data seems to break, which worsen the performance of the model.</li>
+  <li>When oversampling, some data seems to break, which worsen the performance of the model. This has to be fixed somehow in the future to improve the accuracy of the model.</li>
 </ul>
 
 ## Reference
