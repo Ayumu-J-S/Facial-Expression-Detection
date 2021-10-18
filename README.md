@@ -9,7 +9,7 @@ It is possible that the program could work with different dependencies.
 ## Sampling
 Class imbalance exists in the data set (<a href="https://www.kaggle.com/aadityasinghal/facial-expression-dataset">Check here for the dataset</a>) that was used to train the model. I fixed this issue by oversampling the data.
 
-## Future improvement
+## Future improvements
 <ul>
   <li>The convolutional neural network used in this project is still shallow. In the future, it is possible to make the model better by adding more layers and a few more things such as dropout and normalization layer. </li>
   <li>When oversampling, some data seems to break, which worsen the performance of the model.</li>
