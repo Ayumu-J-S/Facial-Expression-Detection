@@ -7,7 +7,7 @@ To install the dependencies, run `pip install -r requirements.txt`.
 It is possible that the program could work with different dependencies. 
 
 ## Sampling
-Class imbalance exists in the data set (<a href="https://www.kaggle.com/aadityasinghal/facial-expression-dataset">Check here for the dataset</a>) that was used to train the model. This issue was fixed by oversampling the data.
+Class imbalance exists in the data set that was used to train the model (<a href="https://www.kaggle.com/aadityasinghal/facial-expression-dataset">Check here for the dataset</a>). This issue was fixed by oversampling the data.
 
 ## Future improvements
 <ul>
